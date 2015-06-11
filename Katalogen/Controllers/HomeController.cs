@@ -8,6 +8,7 @@ namespace Katalogen.Controllers
 {
     public class HomeController : Controller
     {
+        //kommentar
         public ActionResult Index()
         {
             return View();
